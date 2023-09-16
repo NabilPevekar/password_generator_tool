@@ -1,4 +1,5 @@
 🔐 **Password Generator Tool** 🔐
+
 I've created a simple Password Generator using Python and tkinter. This tool allows you to generate secure and random passwords with various options.
 
 ## Features:
